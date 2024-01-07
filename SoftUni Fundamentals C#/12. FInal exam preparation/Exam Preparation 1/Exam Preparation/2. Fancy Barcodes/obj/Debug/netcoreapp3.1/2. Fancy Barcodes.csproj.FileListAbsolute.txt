@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.genruntimeconfig.cache

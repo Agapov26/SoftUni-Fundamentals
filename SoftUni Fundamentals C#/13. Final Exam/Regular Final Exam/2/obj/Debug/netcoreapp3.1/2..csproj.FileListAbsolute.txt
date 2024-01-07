@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\bin\Debug\netcoreapp3.1\2..exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\bin\Debug\netcoreapp3.1\2..deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\bin\Debug\netcoreapp3.1\2..runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\bin\Debug\netcoreapp3.1\2..runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\bin\Debug\netcoreapp3.1\2..dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\bin\Debug\netcoreapp3.1\2..pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\obj\Debug\netcoreapp3.1\2..csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\obj\Debug\netcoreapp3.1\2..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\obj\Debug\netcoreapp3.1\2..AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\obj\Debug\netcoreapp3.1\2..AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\obj\Debug\netcoreapp3.1\2..csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\obj\Debug\netcoreapp3.1\2..dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\obj\Debug\netcoreapp3.1\2..pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Regular Final Exam\2\obj\Debug\netcoreapp3.1\2..genruntimeconfig.cache

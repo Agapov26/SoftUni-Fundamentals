@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 26 Associative Arrays Exercise\Associative Arrays Exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\bin\Debug\netcoreapp3.1\02. Space Travel.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\bin\Debug\netcoreapp3.1\02. Space Travel.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\bin\Debug\netcoreapp3.1\02. Space Travel.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\bin\Debug\netcoreapp3.1\02. Space Travel.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\bin\Debug\netcoreapp3.1\02. Space Travel.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\bin\Debug\netcoreapp3.1\02. Space Travel.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\obj\Debug\netcoreapp3.1\02. Space Travel.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\obj\Debug\netcoreapp3.1\02. Space Travel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\obj\Debug\netcoreapp3.1\02. Space Travel.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\obj\Debug\netcoreapp3.1\02. Space Travel.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\obj\Debug\netcoreapp3.1\02. Space Travel.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\obj\Debug\netcoreapp3.1\02. Space Travel.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\obj\Debug\netcoreapp3.1\02. Space Travel.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 21 Mid Exam\Day 21 Mid Exam\02. Space Travel\obj\Debug\netcoreapp3.1\02. Space Travel.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 31 Exam Preparation\Exam Preparation\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.genruntimeconfig.cache

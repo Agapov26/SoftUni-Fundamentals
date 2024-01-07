@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\bin\Debug\netcoreapp3.1\08. Town Area.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\bin\Debug\netcoreapp3.1\08. Town Area.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\bin\Debug\netcoreapp3.1\08. Town Area.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\bin\Debug\netcoreapp3.1\08. Town Area.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\bin\Debug\netcoreapp3.1\08. Town Area.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\bin\Debug\netcoreapp3.1\08. Town Area.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\obj\Debug\netcoreapp3.1\08. Town Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\obj\Debug\netcoreapp3.1\08. Town Area.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\obj\Debug\netcoreapp3.1\08. Town Area.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\obj\Debug\netcoreapp3.1\08. Town Area.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\obj\Debug\netcoreapp3.1\08. Town Area.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\obj\Debug\netcoreapp3.1\08. Town Area.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 8 Data Types and Variables\Day 8\Data Types and Variables\08. Town Area\obj\Debug\netcoreapp3.1\08. Town Area.genruntimeconfig.cache

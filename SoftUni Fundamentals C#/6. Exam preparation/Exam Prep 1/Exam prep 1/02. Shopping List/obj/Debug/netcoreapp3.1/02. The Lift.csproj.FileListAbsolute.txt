@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. The Lift.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. The Lift.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. The Lift.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. The Lift.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. The Lift.genruntimeconfig.cache

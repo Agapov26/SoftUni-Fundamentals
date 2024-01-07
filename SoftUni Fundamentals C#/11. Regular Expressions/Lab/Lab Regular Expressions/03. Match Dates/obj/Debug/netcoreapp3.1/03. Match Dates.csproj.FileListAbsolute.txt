@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 29 Lab Regular Expressions\Lab Regular Expressions\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.genruntimeconfig.cache

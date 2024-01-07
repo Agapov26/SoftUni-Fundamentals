@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 32 Exam Preparation 2\Exam Preparation 2\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.genruntimeconfig.cache

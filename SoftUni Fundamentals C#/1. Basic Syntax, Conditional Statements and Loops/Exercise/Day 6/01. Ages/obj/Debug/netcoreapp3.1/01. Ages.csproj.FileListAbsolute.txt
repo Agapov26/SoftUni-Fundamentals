@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache

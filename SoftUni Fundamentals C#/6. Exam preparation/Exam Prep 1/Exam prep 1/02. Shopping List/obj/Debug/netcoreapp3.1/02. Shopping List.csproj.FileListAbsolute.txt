@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.genruntimeconfig.cache

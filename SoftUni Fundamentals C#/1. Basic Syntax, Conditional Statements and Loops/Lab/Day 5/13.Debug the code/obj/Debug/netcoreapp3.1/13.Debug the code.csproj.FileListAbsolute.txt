@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\bin\Debug\netcoreapp3.1\13.Debug the code.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\bin\Debug\netcoreapp3.1\13.Debug the code.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\bin\Debug\netcoreapp3.1\13.Debug the code.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\bin\Debug\netcoreapp3.1\13.Debug the code.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\bin\Debug\netcoreapp3.1\13.Debug the code.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\bin\Debug\netcoreapp3.1\13.Debug the code.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\obj\Debug\netcoreapp3.1\13.Debug the code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\obj\Debug\netcoreapp3.1\13.Debug the code.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\obj\Debug\netcoreapp3.1\13.Debug the code.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\obj\Debug\netcoreapp3.1\13.Debug the code.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\obj\Debug\netcoreapp3.1\13.Debug the code.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\obj\Debug\netcoreapp3.1\13.Debug the code.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\13.Debug the code\obj\Debug\netcoreapp3.1\13.Debug the code.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 15 Methods Exercise\Day 15. Methods Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.genruntimeconfig.cache

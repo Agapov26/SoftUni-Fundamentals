@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Moving Target.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Moving Target.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Moving Target.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Moving Target.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Moving Target.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Moving Target.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Moving Target.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Moving Target.genruntimeconfig.cache

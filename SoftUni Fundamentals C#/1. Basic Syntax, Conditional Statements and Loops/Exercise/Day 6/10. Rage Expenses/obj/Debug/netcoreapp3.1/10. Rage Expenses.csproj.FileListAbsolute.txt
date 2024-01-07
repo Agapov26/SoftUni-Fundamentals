@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

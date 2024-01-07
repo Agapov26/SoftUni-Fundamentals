@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.genruntimeconfig.cache

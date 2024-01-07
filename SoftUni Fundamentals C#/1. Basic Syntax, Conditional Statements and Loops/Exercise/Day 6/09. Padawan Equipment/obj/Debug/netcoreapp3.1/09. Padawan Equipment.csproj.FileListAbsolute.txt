@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 6 Exercise Basic Syntax, Conditional Statements and Loops\Day 6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 11 Arrays\Day 11 Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.genruntimeconfig.cache

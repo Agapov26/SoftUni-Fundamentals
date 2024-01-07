@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 5 Lab Intro and Basic Syntax\Day 5\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.genruntimeconfig.cache

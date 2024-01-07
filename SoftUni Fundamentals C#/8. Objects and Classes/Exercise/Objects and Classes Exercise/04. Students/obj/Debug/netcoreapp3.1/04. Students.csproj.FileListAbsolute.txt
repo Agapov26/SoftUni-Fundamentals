@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 23 Objects and Classes Exercise\Objects and Classes Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.genruntimeconfig.cache

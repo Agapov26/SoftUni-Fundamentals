@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Fundamentals C#\Day 19 Exam Prep 1\Exam prep 1\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.genruntimeconfig.cache
